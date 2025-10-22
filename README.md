@@ -3,9 +3,6 @@
 ### 💻 Desenvolvedor Full Stack
 Sou apaixonado por criar soluções web completas, do front-end ao back-end.
 
-### 🎓 Formação Acadêmica
-Atualmente, estou cursando **Engenharia de Software** e me encontro no **quarto semestre** da graduação.
-
 ---
 
 ### 🛠️ Tecnologias que Utilizo
@@ -15,7 +12,7 @@ Tenho experiência e trabalho ativamente com o seguinte *stack* de tecnologias:
 
 
 ---
-### 🎓 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 [![Phelipe Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=phelipecarlos96)](https://github.com/anuraghazra/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelipecarlos96)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,6 +27,11 @@ Tenho experiência e trabalho ativamente com o seguinte *stack* de tecnologias:
 <br> 
 <br> 
 ➡️ **Estou sempre aprendendo e construindo! Dê uma olhada nos meus repositórios para ver meus projetos.**
+
+
+
+
+
 
 
 
